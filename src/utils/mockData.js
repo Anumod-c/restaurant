@@ -15,7 +15,7 @@ let resObj=[{
     },
     {   url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/goevzinldbotvpn3xid1",
         resName:"Nehadi Mandi ",
-        cusine:"Burger , Fried Chicken",
+        cusine:"Mandi , Alfam Chicken",
         rating:"3.6",
         delTime:"8 min"
             
@@ -23,7 +23,7 @@ let resObj=[{
         {
             url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e33e1d3ba7d6b2bb0d45e1001b731fcf",
             resName:"Burger King ",
-            cusine:"Burger , Fried Chicken",
+            cusine:" Fast Food (Burgers)",
             rating:"4.6",
             delTime:"8 min"
                 
@@ -31,15 +31,15 @@ let resObj=[{
             {
                 url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/63178e3e64d503a479f2a2048a474552",
                 resName:"Subway ",
-                cusine:"Burger , Fried Chicken",
-                rating:"4.6",
+                cusine:"Fast Food (Sandwiches)",
+                rating:"3.8",
                 delTime:"8 min"
                     
                 },
                 {
                     url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/40f193d8b23afb2988489dac1258962f",
                     resName:"Starbucks ",
-                    cusine:"Burger , Fried Chicken",
+                    cusine:"Coffee, Bakery, and Café Food",
                     rating:"3.6",
                     delTime:"8 min"
                         
@@ -47,16 +47,16 @@ let resObj=[{
                     {
                         url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hrq0twgdtifzabgavvpr",
                         resName:"McDonald's ",
-                        cusine:"Burger , Fried Chicken",
-                        rating:"3.6",
+                        cusine:" Fast Food (Burgers)",
+                        rating:"4.6",
                         delTime:"8 min"
                             
                         },
                         {
                             url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/75052e31499c23c43505cf1a601a2640",
                             resName:"Domino's Pizza ",
-                            cusine:"Burger , Fried Chicken",
-                            rating:"3",
+                            cusine:" Fast Food (Pizza)",
+                            rating:"4.3",
                             delTime:"8 min"
                                 
                             },
@@ -64,7 +64,7 @@ let resObj=[{
     {
         url:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hkf5yjlbrwsyk6fafo4g",
         resName:"Nehadi Mandi ",
-        cusine:"Mandhi , Alfam Chicken",
+        cusine:"Mandi, Alfam Chicken",
         rating:"4.6",
         delTime:"8 min"
      

@@ -1,9 +1,13 @@
 .header {
+    height: 100px;
     display: flex;
     justify-content: space-between;
     border: 1px solid black;
    
     
+}
+.logo-container{
+    display: flex;
 }
 .logo {
     width: 130px;
@@ -18,6 +22,7 @@
    list-style: none;
 }
 .nav-item > ul > li{
+    font-family:'Times New Roman', Times, serif;
 padding: 10px;
 margin: 10px;
 }
